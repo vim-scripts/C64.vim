@@ -145,7 +145,7 @@ hi Typedef         guifg=#ffffff    guibg=NONE    guisp=NONE    gui=NONE    cter
 " --------------------------------
 " Diff
 " --------------------------------
-hi DiffAdd         guifg=#ffffff    guibg=#73e773    guisp=#73e773    gui=NONE    ctermfg=15 ctermbg=77    cterm=NONE
+hi DiffAdd         guifg=#181090    guibg=#73e773    guisp=#73e773    gui=NONE    ctermfg=15 ctermbg=77    cterm=NONE
 hi DiffChange      guifg=NONE    guibg=#c88e2f    guisp=#c88e2f    gui=NONE    ctermfg=NONE ctermbg=179    cterm=NONE
 hi DiffDelete      guifg=NONE    guibg=#ad524a    guisp=#ad524a    gui=NONE    ctermfg=NONE ctermbg=131    cterm=NONE
 hi DiffText        guifg=#ffffff    guibg=#bd6bbd    guisp=#bd6bbd    gui=NONE    ctermfg=15 ctermbg=133    cterm=NONE
